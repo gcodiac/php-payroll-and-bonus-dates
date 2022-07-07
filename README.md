@@ -1,4 +1,4 @@
-# Payroll and Bonus Dates Calculations:
+# Payroll and Bonus Dates Calculator:
 
 Simple symfony console component (CLI) that will create a CSV file detailing the dates for
 the next 12 months when Basic Salary and Salary Bonus are paid:
