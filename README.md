@@ -41,3 +41,7 @@ To execute the application, run the following command:
 ```
 $ php bin/console Ali:csv output
 ```
+
+
+## Sample Output:
+![image](https://user-images.githubusercontent.com/42435299/177766616-ca566185-f7e6-4aa0-865b-9a0d9e858441.png)
